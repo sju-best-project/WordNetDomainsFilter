@@ -1,8 +1,6 @@
 # WordNetDomainsFilter
 
-This repository contains alignments as described in the paper "False Positives Reduction in Ontology Matching Based on Concepts' Domain Similarity" submitted to 23rd International Conference on Natural Language & Information Systems (nlDB-18). 
-
-The alignments are used for an experimental evaluation of the WordNet Domains filter approach in two datasets:
+The alignments in this repository are used for an experimental evaluation of the WordNet Domains filter approach in two datasets:
 1. Bibframe versus Schema.org
 2. DBPedia versus Sumo
 
